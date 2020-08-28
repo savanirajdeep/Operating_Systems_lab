@@ -60,4 +60,4 @@ int main()
       printf("\nAverage Waiting Time:\t%f", average_wait_time);
       printf("\nAverage Turnaround Time:\t%f\n", average_turnaround_time);
       return 0;
-}s
+}
